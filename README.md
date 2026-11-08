@@ -1,62 +1,15 @@
-# Hi there, I'm Alhanouf! 👋
+# 💫 About Me:
+# Hi there, I'm Alhanouf! 👋<br><br>### 🎓 Artificial Intelligence Student | Python & Java Developer<br><br>I'm a final-year **Artificial Intelligence student at Princess Nourah bint Abdulrahman University (PNU)** in Riyadh, Saudi Arabia, graduating in 2027.<br><br>I'm passionate about building intelligent systems, exploring emerging AI technologies, and developing innovative solutions to real-world challenges.<br><br>### 👩‍💻 About Me<br><br>- 🎓 Pursuing a Bachelor's degree in Artificial Intelligence.<br>- 🤖 Interested in AI Agents, Machine Learning, Deep Learning, and NLP.<br>- 💻 Programming with **Python, Java, and SQL**.<br>- 🌱 Exploring Generative AI, LLMs, and intelligent automation.<br>- 🚀 Passionate about AI applications that support Saudi Vision 2030.<br>- 🤝 Open to learning, collaboration, and innovative technology projects.<br><br>### 🛠️ Technical Skills<br><br>**Languages:** Python • Java • SQL<br><br>**AI & Machine Learning:** Machine Learning • Deep Learning • Neural Networks • NLP • Computer Vision<br><br>**Tools & Frameworks:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • OpenCV • Streamlit<br><br>**AI Technologies:** Multi-Agent Systems • LLMs • LangChain • LangSmith • Groq<br><br>### 🚀 Featured Projects<br><br>**🌆 NEOM Urban Agent Network**<br><br>An AI-powered multi-agent system designed to coordinate energy, transportation, and waste management in a simulated smart city.<br><br>Developed using Python, Groq LLM, Random Forest, Streamlit, and LangSmith.<br><br>[Explore the Project](https://github.com/AlhanoufFahad/NEOM-Urban-Agent-Network)<br><br>**🎤 AI-Powered Interview & Presentation Training Platform**<br><br>A graduation project focused on designing an intelligent platform that simulates interviews and presentations and provides AI-driven feedback using NLP and speech analysis.<br><br>### 📜 Certifications<br><br>- Explainable Machine Learning (XAI) — Duke University<br>- Machine Learning with Python — IBM<br>- Java Foundations — Oracle Academy<br>- Drone Systems — SWARM Technologies<br>- Fundamental Drones — Saudi Federation for Cybersecurity, Programming & Drones<br><br>### 🎯 Career Interests<br><br>Artificial Intelligence Engineering • Machine Learning • AI Development • Intelligent Systems<br><br>### 📫 Connect With Me<br><br>📧 **Email:** [Hano.fa@outlook.com](mailto:Hano.fa@outlook.com)<br><br>📍 Riyadh, Saudi Arabia<br><br>---<br><br>✨ *Turning curiosity into intelligent solutions, one project at a time.*
 
-### 🎓 Artificial Intelligence Student | Python & Java Developer
 
-I'm a final-year **Artificial Intelligence student at Princess Nourah bint Abdulrahman University (PNU)** in Riyadh, Saudi Arabia, graduating in 2027.
-
-I'm passionate about building intelligent systems, exploring emerging AI technologies, and developing innovative solutions to real-world challenges.
-
-### 👩‍💻 About Me
-
-- 🎓 Pursuing a Bachelor's degree in Artificial Intelligence.
-- 🤖 Interested in AI Agents, Machine Learning, Deep Learning, and NLP.
-- 💻 Programming with **Python, Java, and SQL**.
-- 🌱 Exploring Generative AI, LLMs, and intelligent automation.
-- 🚀 Passionate about AI applications that support Saudi Vision 2030.
-- 🤝 Open to learning, collaboration, and innovative technology projects.
-
-### 🛠️ Technical Skills
-
-**Languages:** Python • Java • SQL
-
-**AI & Machine Learning:** Machine Learning • Deep Learning • Neural Networks • NLP • Computer Vision
-
-**Tools & Frameworks:** TensorFlow • PyTorch • Scikit-learn • Pandas • NumPy • OpenCV • Streamlit
-
-**AI Technologies:** Multi-Agent Systems • LLMs • LangChain • LangSmith • Groq
-
-### 🚀 Featured Projects
-
-**🌆 NEOM Urban Agent Network**
-
-An AI-powered multi-agent system designed to coordinate energy, transportation, and waste management in a simulated smart city.
-
-Developed using Python, Groq LLM, Random Forest, Streamlit, and LangSmith.
-
-[Explore the Project](https://github.com/AlhanoufFahad/NEOM-Urban-Agent-Network)
-
-**🎤 AI-Powered Interview & Presentation Training Platform**
-
-A graduation project focused on designing an intelligent platform that simulates interviews and presentations and provides AI-driven feedback using NLP and speech analysis.
-
-### 📜 Certifications
-
-- Explainable Machine Learning (XAI) — Duke University
-- Machine Learning with Python — IBM
-- Java Foundations — Oracle Academy
-- Drone Systems — SWARM Technologies
-- Fundamental Drones — Saudi Federation for Cybersecurity, Programming & Drones
-
-### 🎯 Career Interests
-
-Artificial Intelligence Engineering • Machine Learning • AI Development • Intelligent Systems
-
-### 📫 Connect With Me
-
-📧 **Email:** [Hano.fa@outlook.com](mailto:Hano.fa@outlook.com)
-
-📍 Riyadh, Saudi Arabia
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=AlhanoufFahad&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=AlhanoufFahad&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlhanoufFahad&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://komarev.com/ghpvc/?username=AlhanoufFahad&icon=0&color=0)](https://visitcount.itsvg.in)
 
-✨ *Turning curiosity into intelligent solutions, one project at a time.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
